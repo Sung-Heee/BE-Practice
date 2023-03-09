@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello, Node.js\""
+    "server": "nodemon ./03_express/router.js"
   },
   "keywords": [],
   "author": "",
